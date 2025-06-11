@@ -49,6 +49,11 @@
 
 ---
 
+### 📊 Leetcode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Akil_Ahamad_Khan?theme=radical&font=Mate&ext=heatmap" />
+</p>
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -59,11 +64,6 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilkhan5426&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-### 📊 Leetcode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Akil_Ahamad_Khan?theme=radical&font=Mate&ext=heatmap" />
 </p>
 
 ---
