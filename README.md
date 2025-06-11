@@ -1,4 +1,4 @@
-# akilkhan5426-
+# akilkhan5426
 <h1 align="center">Hi 👋, I'm Akil Khan</h1>
 <h3 align="center">A passionate CSE (AI & ML) student</h3>
 
